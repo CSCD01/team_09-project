@@ -53,3 +53,33 @@
 **Comments**:  
 
 -----------------
+
+### Deliverable 2
+
+| Criteria | Grade |
+| :-------: | :-----: |
+| Bugs Intro (10) | 10 |  
+| Choice of bugs (5) | 5 |  
+| Correctness (25) | 25 |  
+| Documentation (10) | 10 |
+| Test Suite (10) | 10 | 
+| Software Process (25) | 25 |
+| Presentation (15) | 15 |
+
+**Total (100)**: 100   
+**Comments**:    
+
+### Interview 2
+
+| Question | Grade |
+| :-------: | :-----: |
+| Summary (1) | 1 |  
+| Demo 1 (2) | 2 |  
+| Explain 1 (1) | 1 |  
+| Test (2) | 2 |  
+| Demo 2 (2) | 2 |  
+| Software Process (2) | 2 | 
+| Bonus (1) | 1 |
+
+**Total (10)**: 11   
+**Comments**:   
