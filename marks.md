@@ -90,13 +90,13 @@
 
 | Criteria | Grade |
 | :-------: | :-----: |
-| Issue Description (10) |  |  
-| Implementation Plans (10) |  |  
-| Test (5) |  |  
-| Architecture (10) |  |
-| Presentation (10) |  |  
+| Issue Description (10) | 10 |  
+| Implementation Plans (10) | 10 |  
+| Test (5) | 5 |  
+| Architecture (10) | 10 |
+| Presentation (10) | 10 |  
 
-**Total (45)**:   
+**Total (45)**: 45  
 **Comments**:   
 
 ### Interview 3
